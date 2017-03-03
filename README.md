@@ -1,6 +1,7 @@
 简介
 -------------------------------
 ![logo](https://linuxstory.org/wp-content/uploads/2013/03/linux-story-logo-regular.png)
+
 Linux Story 是一个纯社区运营的开源资讯社区（[https://linuxstory.org](https://linuxstory.org)），旨在传递纯正开源之美，通过自己撰写及翻译最新的开源资讯和优秀的开源教材、技术文章、开源项目来让更多受众接触开源、接受开源，也期望开源能发挥出更多的社会意义，而不只是极客们自娱自乐。
 
 Linux Story 已经拥有几十名活跃成员，并欢迎更多的 Linux 爱好者加入我们的团队。
@@ -30,7 +31,8 @@ Linux Story 已经拥有几十名活跃成员，并欢迎更多的 Linux 爱好�
 加入我们
 -------------------------------
 
-请首先加入 Linux Story 的 QQ 群，群号是：199872803，加群时请说明是“志愿者”。加入后记得修改您的群名片为您的 GitHub 的 ID。也可以选择撰写邮件到 ls#linuxstory.org(将#替换为@)，title 注明希望加入 Linux Story 团队。
+非常欢迎考虑加入我们，一起把不够美好的世界变得美好一点点，请您首先加入 Linux Story 的 QQ 群，群号是：199872803，加群时请说明是“志愿者”。加入后记得修改您的群名片为您的 GitHub 的 ID。也可以选择撰写邮件到 ls#linuxstory.org(将#替换为@)，title 注明希望加入 Linux Story 团队。
 
 感谢支持！
 
+@聞其詳
